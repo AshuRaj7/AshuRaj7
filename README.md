@@ -38,7 +38,7 @@ A **React-based movie search app** with real-time suggestions using the OMDB API
 
 ## 🏅 Achievements  
 - Certifications in **Python**, **Django**, **Cybersecurity**, **CCNA**, and **Ethical Hacking**  
-- Built several full-stack applications using **Django**, **React**, **Go**, and **Docker**
+- Built several full-stack applications using **Django**, **React**, **RestAPI**, and **Sql**
 
 ---
 
