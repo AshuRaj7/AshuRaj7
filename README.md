@@ -1,8 +1,8 @@
 # Hi there, I'm **Ashu Raj**! 👋  
 ![GitHub followers](https://img.shields.io/github/followers/AshuRaj7?style=social) ![GitHub stars](https://img.shields.io/github/stars/AshuRaj7?style=social)
 
-🔹 **Aspiring Full Stack Developer | Python Backend Developer | Go Enthusiast**  
-🔹 **Passionate about Backend Engineering, Machine Learning, and Web Development**
+🔹 **Aspiring Full Stack Developer | Python Backend Developer | React Developer**  
+🔹 **Passionate about Web Development, Cyber Security and Ethical Haking**
 
 ---
 
