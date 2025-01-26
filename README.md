@@ -57,5 +57,5 @@ A **React-based movie search app** with real-time suggestions using the OMDB API
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/ashok-kumar-bodhanki-24a44425a?trk=people_directory)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/ashok-kumar-bodhanki-24a44425a)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshuRaj7)
