@@ -56,6 +56,10 @@ A **React-based movie search app** with real-time suggestions using the OMDB API
 
 
 <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshuRaj7&theme=dark" alt="AshuRaj7" />
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=AshuRaj7&label=Profile%20views&color=0e75b6&style=flat" alt="AshuRaj7" />
 </p>
 
