@@ -54,6 +54,11 @@ A **React-based movie search app** with real-time suggestions using the OMDB API
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuRaj7&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AshuRaj7&label=Profile%20views&color=0e75b6&style=flat" alt="AshuRaj7" />
+</p>
+
 ---
 
 ## 📫 Connect with Me  
